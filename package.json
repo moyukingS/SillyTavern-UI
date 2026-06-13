@@ -21,13 +21,20 @@
     "@vueuse/integrations": "^13.9.0",
     "@vueuse/shared": "^13.9.0",
     "pinia": "^3.0.4",
+<<<<<<< HEAD
     "tailwindcss": "^4.3.0",
     "type-fest": "^5.7.0",
     "vue": "^3.5.35",
+=======
+    "tailwindcss": "^4.3.1",
+    "type-fest": "^5.7.0",
+    "vue": "^3.5.38",
+>>>>>>> e414423ea82f3e7e0ed679a976e1e676f4edee9f
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
+<<<<<<< HEAD
     "@tailwindcss/postcss": "^4.3.0",
     "@tsconfig/node22": "^22.0.5",
     "@types/jsdom": "^21.1.7",
@@ -35,6 +42,15 @@
     "@typescript-eslint/parser": "^8.61.0",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vitest/eslint-plugin": "^1.6.19",
+=======
+    "@tailwindcss/postcss": "^4.3.1",
+    "@tsconfig/node22": "^22.0.5",
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.19.21",
+    "@typescript-eslint/parser": "^8.61.0",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "@vitest/eslint-plugin": "^1.6.20",
+>>>>>>> e414423ea82f3e7e0ed679a976e1e676f4edee9f
     "@vue/test-utils": "^2.4.11",
     "@vue/tsconfig": "^0.8.1",
     "autoprefixer": "^10.5.0",
