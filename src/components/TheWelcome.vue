@@ -25,7 +25,11 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md');
     <template #icon>
       <ToolingIcon />
     </template>
+<<<<<<< HEAD
     <template #heading>INIT</template>
+=======
+    <template #heading>Tooling</template>
+>>>>>>> da5a7b1d6e759b2a765a1fac1f1c5f006acdd914
 
     This project is served and bundled with
     <a href="https://vite.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The recommended IDE setup is
