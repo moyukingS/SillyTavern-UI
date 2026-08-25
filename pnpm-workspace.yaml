@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 allowBuilds:
   esbuild: true
   unrs-resolver: false
+=======
+>>>>>>> f084def5e93608359bf135a6bcb96c96e3157048
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
   - esbuild
